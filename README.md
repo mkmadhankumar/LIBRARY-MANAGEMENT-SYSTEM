@@ -3,7 +3,7 @@
 A console-based Library Management System built in the C programming language. It manages core library operations such as adding books, issuing and returning books, tracking users, and automatically calculating fines for late returns.
 
 
-📖 Table of Contents
+Table of Contents
 
 
 Introduction
